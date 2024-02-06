@@ -16,6 +16,8 @@ web server, ask one of our Moodle Partners <https://moodle.com/partners/> to
 assist you, or have a MoodleCloud site <https://moodle.com/cloud/> set up for
 you.
 
+
+s
 Moodle is widely used around the world by universities, schools, companies and
 all manner of organisations and individuals.
 

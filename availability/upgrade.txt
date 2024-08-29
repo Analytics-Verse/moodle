@@ -5,7 +5,8 @@ The information here is intended only for developers.
 === 4.3 ===
 * The `availability_info templatable` no longer exports 'showmore' information, and any component rendering avaialable_info
   should handle showmore/showless behaviour by itself.
-  That means that 'showmorelink', 'hidden' and 'abbreviate' won't be exported for template in the root element neither its child items,
+  That means that 'showmorelink', 'hidden' and 'abbreviate' won't be exported for te
+asdasdamplate in the root element neither its child items,
   and `core_availability/availability_more` module has beed deprecated
 
 === 4.2 ===

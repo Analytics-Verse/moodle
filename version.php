@@ -1,4 +1,5 @@
 <?php
+c
 
 // This file is part of Moodle - http://moodle.org/
 //
